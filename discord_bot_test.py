@@ -2,7 +2,7 @@
 import discord
 import random
 
-TOKEN = 'MTAwNzczMTM4OTAxOTQ3NjE1OQ.Ge4USd.WVaN3UfitYkNo_8kRcz5Zu0cUdsvhO9Pu5XnFc'
+TOKEN = 'Insert Token Here'
 client = discord.Client()
 
 coinflips = ('Heads','Tails')
